@@ -1,0 +1,1 @@
+# mongodb_replica_auth_docker
